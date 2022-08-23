@@ -1,0 +1,33 @@
+h2{
+	color: orangered; background-color: rebeccapurple;
+}
+
+h3{
+	color: slategray; background-color: lightskyblue;
+}
+
+h4{
+	color: orangered;
+}
+
+.First_heading{
+	color: black; background-color: skyblue; font-style: bold;
+	border-style: groove;
+}
+
+.Second_heading{
+	color: black; background-color: white; font-style: bold;
+}
+
+#third_heading{
+	color: black; background-color: white;
+}
+
+#last{
+	color: green; background-color: white;
+}
+
+table, th, td {
+  border: 2px solid black;
+   border-collapse: collapse;
+}
